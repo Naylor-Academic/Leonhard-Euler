@@ -1,3 +1,7 @@
 body {
     background-image: url("img/background/home/Euler.png");
 };
+
+img .men {
+  border-radius: 8px;
+}
